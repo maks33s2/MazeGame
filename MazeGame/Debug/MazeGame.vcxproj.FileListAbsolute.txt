@@ -1,0 +1,4 @@
+C:\Users\max19\OneDrive\Рабочий стол\VS\MazeGame\MazeGame\Debug\MazeGame.exe
+C:\Users\USER\Desktop\VisualStudio\MazeGame\Debug\MazeGame.exe
+C:\Users\student\Desktop\1\MazeGame\Debug\MazeGame.exe
+C:\Users\student\Desktop\1\MazeGame\Debug\MazeGame.pdb
